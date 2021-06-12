@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/dab3929b-eba3-4a9a-901d-432cedd9b9ce/resourceGroups/Kachow/providers/Microsoft.Web/sites/kachow",
+    "appService.deploySubpath": "."
+}
